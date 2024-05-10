@@ -29,7 +29,7 @@ func handleRequest(w http.ResponseWriter, r *http.Request) {
 	}
 }
 
-// isPrivateIP 检查 IP 地址是否属于私有地址段
+// isPrivateIP 检查 IP 地址是否属于私有保留地址段
 func isPrivateIP(ipStr string) bool {
 	ip := net.ParseIP(ipStr)
 	if ip == nil {
