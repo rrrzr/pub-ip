@@ -7,7 +7,7 @@
 支持curl访问，如：
 
 ```bash
-curl https://ip.rrrzr.top
+curl ip.rrrzr.top
 ```
 
 Demo：https://ip.rrrzr.top/
