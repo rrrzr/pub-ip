@@ -7,7 +7,7 @@
 支持curl访问，如：
 
 ```bash
-curl https://tun.us.kg
+curl tun.us.kg
 ```
 
 Demo：https://tun.us.kg
